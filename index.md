@@ -2,8 +2,8 @@
 title: Mezzo 2 - Official website
 layout: default
 
-build_number: 16
-version_name: 🇺🇦 2024.10.24
+build_number: 18
+version_name: 🇺🇦 2024.11.11
 ---
 
 <p>
